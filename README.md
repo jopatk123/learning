@@ -10,6 +10,7 @@
 - `git add <文件名>` - 添加文件到暂存区
 - `git commit -m "提交信息"` - 提交更改
 - `git log` - 查看提交历史
+- `git diff` - 查看文件修改的具体内容
 
 ### 分支操作
 - `git branch` - 查看所有分支
@@ -21,6 +22,8 @@
 - `git remote add origin <仓库地址>` - 添加远程仓库
 - `git pull` - 从远程仓库拉取更新
 - `git push` - 推送到远程仓库
+- `git push -u origin main` - 首次推送时使用，设置上游分支，之后可以直接使用 git push
+- `git push origin main` - 最常用的形式，将本地的 main 分支推送到名为 origin 的远程仓库
 - `git clone` - 克隆远程仓库
 - `git stash` - 暂存当前修改
 
