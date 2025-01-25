@@ -7,3 +7,5 @@ git checkout  - 切换分支
 git pull      - 从远程仓库拉取更新
 git push      - 推送到远程仓库
 
+git checkout -b <新分支名称> 创建并切换到新分支
+
