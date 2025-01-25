@@ -11,3 +11,5 @@ git checkout  - 切换分支
 git pull      - 从远程仓库拉取更新
 git push      - 推送到远程仓库
 git clone     - 克隆远程仓库
+
+已经切换成SSH
