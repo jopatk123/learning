@@ -13,4 +13,6 @@ git push      - 推送到远程仓库
 git clone     - 克隆远程仓库
 git stash     - 暂存区
 
-已经从SSL切换成SSH
+git checkout -b <新分支名称> 创建并切换到新分支
+
+git merge <分支名称> 合并分支
