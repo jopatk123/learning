@@ -9,3 +9,4 @@ git push      - 推送到远程仓库
 
 git checkout -b <新分支名称> 创建并切换到新分支
 
+git merge <分支名称> 合并分支
